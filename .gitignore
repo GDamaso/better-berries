@@ -123,3 +123,4 @@ test-report.xml
 
 # Frontend
 frontend/dev-dist
+frontend/package-lock.json

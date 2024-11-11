@@ -5,6 +5,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/better-berries/',
   resolve: {
     alias: {
       '@Constants': path.resolve(__dirname, 'src/Constants'),
