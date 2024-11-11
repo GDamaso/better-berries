@@ -1,3 +1,12 @@
+# Fork from QuackStack's capstone project 2024
+
+This project was sponsored by the sustainment team and is now in their github archived repos.
+I'm only updating it to deploy a basic version for demonstration purposes and perhaps fix some bugs in the meanwhile.
+In this process, I will remove many resources I find not to be integral for this minimal deployment.
+
+Please note: **This project is not anymore sponsored by the BC Government and I currently have no employment status with them in any shape or form.**
+
+___
 [![MIT License](https://img.shields.io/github/license/bcgov/quickstart-openshift.svg)](/LICENSE.md)
 [![Lifecycle](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
